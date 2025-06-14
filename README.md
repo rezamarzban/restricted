@@ -1,1 +1,5 @@
-# restricted-
+# restricted
+
+```python
+print("restricted")
+```
