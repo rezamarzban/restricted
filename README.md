@@ -5,3 +5,11 @@
 ```python
 print("restricted")
 ```
+
+```php
+echo "restricted";
+```
+
+```c++
+printf("restricted");
+```
